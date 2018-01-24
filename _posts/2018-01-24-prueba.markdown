@@ -18,7 +18,7 @@ __Este parrafo saldra en negrita__
 > Comienzo de una cita
 > > Cita anidada
 >
-> ## Encabezado dos
+ ## Encabezado dos
 > 
 > 1. Lista Numerada
 > 1. Lista numerada, segundo elemento
