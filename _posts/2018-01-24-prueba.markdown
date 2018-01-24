@@ -5,7 +5,7 @@ date:   2018-01-24 12:05:11 +0000
 categories: ñeeeeee
 ---
 
-#Esto es una encabezado de nivel 1
+# Esto es una encabezado de nivel 1
 
 _Este parrafo sale en italica_
 
