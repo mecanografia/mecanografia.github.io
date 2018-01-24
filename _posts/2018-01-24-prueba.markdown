@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Prueba de sincronizacion"
+date:   2018-01-24 12:05:11 +0000
+categories: ñeeeeee
+---
+
+#Esto es una encabezado de nivel 1
+
+_Este parrafo sale en italica_
+
+__Este parrafo saldra en negrita__
+
+* Esto sirve para crear una linea horizontal
+* * Esto pondria otra linea a continuacion
+* * * Y otra vez los mismo
+
+> Comienzo de una cita
+> > Cita anidada
+>
+> ##Encabezado dos
+> 
+> 1. Lista Numerada
+> 1. Lista numerada, segundo elemento
+>
+>    código....
+
+[EnLaCe To FlAmA](http://google.es "Este enlace te lanza a google")
+
+![The beatles of the Simpsons](https://images.alphacoders.com/117/thumb-1920-11743.jpg "The beatles of the Simpsons")
+
+Día | Ingresos | Egresos
+--- | --- | ---
+1 | $25000 | $50
+2 | $200 | $320
+3 | $5 | $50000
